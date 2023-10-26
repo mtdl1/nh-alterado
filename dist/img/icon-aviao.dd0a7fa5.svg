@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="160.5" height="150.896" viewBox="0 0 160.5 150.896">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_248" data-name="Retângulo 248" width="160.5" height="150.896" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Retângulo_251" data-name="Retângulo 251" width="150.333" height="114.237" fill="none" stroke="#070707" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="AVIAO" transform="translate(2 1)">
+    <g id="Grupo_229" data-name="Grupo 229" transform="translate(-2 -1)">
+      <path id="Caminho_727" data-name="Caminho 727" d="M31.6,0,6.156,15.631l.007,7.522,2.592-5.316Z" transform="translate(0.1)" fill="#111"/>
+      <path id="Caminho_729" data-name="Caminho 729" d="M8.677,17.919,6.163,23.153,31.541.077Z" transform="translate(0.1)" fill="#d90d75"/>
+      <path id="Caminho_730" data-name="Caminho 730" d="M30.9.226l.24-.149L31.2,0Z" transform="translate(0.501)" fill="#707f78"/>
+      <path id="Caminho_731" data-name="Caminho 731" d="M31.26.226,8.644,17.886l-.026.015,7.289,6.443L31.5.078Z" transform="translate(0.14)" fill="#ffe3ee"/>
+      <path id="Caminho_732" data-name="Caminho 732" d="M0,10.161l6.219,5.5L31.4.226,31.7,0Z" transform="translate(0)" fill="#ffd6e6"/>
+      <g id="Grupo_231" data-name="Grupo 231" transform="translate(7 24.448)">
+        <g id="Grupo_230" data-name="Grupo 230" transform="translate(0 0)" clip-path="url(#clip-path-2)">
+          <path id="Caminho_736" data-name="Caminho 736" d="M80.711,114.109s-18.13-21.408,0-35.17,61.854.305,68.608-22.937S115.9,10.127,61.159,23.889.247.035.247.035" transform="translate(0.011 -0.004)" fill="none" stroke="#070707" stroke-width="0.5" stroke-dasharray="12 12"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
